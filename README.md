@@ -1,4 +1,4 @@
-# 🧶 Al-Khaytal
+# Al-Khaytal
 
 A professional, fully-interactive web app that decodes Emirati heritage — the
 traditional Bedouin weaving craft of *Al-Sadu* — using a four-agent LangGraph RAG
@@ -33,10 +33,10 @@ you review the draft and facts, then approve or send feedback.
 
 | Page | What it does |
 |------|--------------|
-| 🏠 **Home** | Hero, feature cards, and a static pipeline overview |
-| 🔍 **Decode** | Ask a question → watch the pipeline run live → review the draft → approve → get a citable report + illustration |
-| 🖼️ **Artifact Lab** | Train the model on artefact images, then identify new ones |
-| ℹ️ **About** | Architecture, data isolation, and known limits |
+| **Home** | Hero, feature cards, and a static pipeline overview |
+| **Decode** | Ask a question → watch the pipeline run live → review the draft → approve → get a citable report + illustration |
+| **Artifact Lab** | Train the model on artefact images, then identify new ones |
+| **About** | Architecture, data isolation, and known limits |
 
 ## Tech stack
 
